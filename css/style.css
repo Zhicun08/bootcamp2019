@@ -1,3 +1,6 @@
+
+
+
 #page1 {
 background-image: url("../img/bg1.png");
 background-repeat: no-repeat;
@@ -54,7 +57,10 @@ a {
 	font-size: 18px; 
 	text-decoration: none;
 	transition:0.5s;
+	text-align: center;
 }
+
+
 
 a:hover{
 	color: orange;
